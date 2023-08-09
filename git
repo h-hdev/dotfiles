@@ -1,0 +1,4 @@
+alias gst='git status'
+alias gp='git push origin'
+alias gl='git pull'
+alias gacm="git add -A && git commit -m"
